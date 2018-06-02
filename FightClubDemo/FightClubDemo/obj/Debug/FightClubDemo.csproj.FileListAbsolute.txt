@@ -1,0 +1,14 @@
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\bin\Debug\FightClubDemo.exe.config
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\bin\Debug\FightClubDemo.exe
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\bin\Debug\FightClubDemo.pdb
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.exe
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.pdb
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.FightClubForm.resources
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.Form2.resources
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\bin\Debug\FightClubDemo.exe.manifest
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\bin\Debug\FightClubDemo.application
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.exe.manifest
+c:\users\иван\documents\visual studio 2017\Projects\FightClubDemo\FightClubDemo\obj\Debug\FightClubDemo.application
